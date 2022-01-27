@@ -1,3 +1,3 @@
 # Bank_uppg
-detta är ett jupyter notebook projekt så öppna projektet där
-öppna projektet med filen: Bank.
+Detta är ett jupyter notebook projekt så öppna projektet där.
+Öppna projektet med filen: Bank_uppg.ipynb

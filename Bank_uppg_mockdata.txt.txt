@@ -1,0 +1,4 @@
+1000:Theo:20021008:1000:debit account:200.0
+1001:Rafael:19911111:1002:debit account:5000.0#1003:debit account:1000.0
+1003:Linnea:19860107:1004:debit account:0.0#1005:debit account:500.0
+1005:Manuel:19911216:1006:debit account:200.0#1007:debit account:300.0#1008:debit account:400.0
